@@ -1,7 +1,21 @@
-575A4B = weird green that I like
+
+h1{
+
+	font-family: "Exo 2";
+	color: #575A4B;
+	text-size: 89;
+    text-align: center;
+	background-color: #CFCFEA;
+
+}
+
+
+
+
+/*575A4B = weird green that I like
 816C61 = tan salmon color
 A89B9D = purple salmon color
 CFCFEA = blue purple
 2A2C24 = dark green
 Exo 2
-Roboto slab
+Roboto slab*/
