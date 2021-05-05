@@ -3,19 +3,51 @@ h1{
 
 	font-family: "Exo 2";
 	color: #575A4B;
-	text-size: 89;
+	font-size: 89px;
     text-align: center;
 	background-color: #CFCFEA;
 
 }
 
+p{
 
+	font-family: "Roboto Slab";
+	color: #816C61;
+	font-size: 63px;
+	text-align: center;
+	
+}
 
+.headerIndex{
+	background: url('food.jpg') no-repeat;
+	background-size: cover;
+	height: 500px;
+	padding: 60px 0px;
+}
 
+.headerAppetizers{
+	background: url('cheeseplatter.jpg') no-repeat;
+	background-size: cover;
+	height: 500px;
+	padding: 60px 0px;
+}
+
+.headerMain{
+	background: url('filetmignon.jpg') no-repeat;
+	background-size: cover;
+	height: 500px;
+	padding: 60px 0px;
+}
+.headerDesserts{
+	background: url('sorbetpic.jpg') no-repeat;
+	background-size: cover;
+	height: 500px;
+	padding: 60px 0px;
+}
 /*575A4B = weird green that I like
 816C61 = tan salmon color
 A89B9D = purple salmon color
 CFCFEA = blue purple
 2A2C24 = dark green
 Exo 2
-Roboto slab*/
+Roboto Slab 
